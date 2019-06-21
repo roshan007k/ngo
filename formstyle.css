@@ -1,0 +1,11 @@
+.bg{
+	background-image:url(background1.jpg.jpg);
+	height:720px;
+	padding-top: 300px;
+	padding-left: 550px;
+}
+.fr1{
+	border: 2px solid black;
+	width: 400px;
+	background-color: #5555;
+}

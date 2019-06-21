@@ -1,0 +1,79 @@
+.jumbotron{background-image:url(https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn.telanganatoday.com%2Fwp-content%2Fuploads%2F2018%2F02%2Funderprivileged-children.jpg&f=1);
+background-size:cover;
+height: 740px;
+opacity:0.8;
+}
+.display-4{font-family:fantasy;
+color: red;}
+.lead{font-family:cursive;
+color: pink;}
+
+/* NAVBAR */
+.topnav {
+    background-color: trasparent;
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 0px 16px;
+  text-decoration: none;
+  font-size: 20px;
+  margin-top: 0px ;
+  font-family : cursive;
+}
+.btn{
+  text-align: center
+}
+.btn:hover{
+  background-color: white;
+  color: black;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+/* Add a color to the active/current link */
+.topnav a.active {
+  background-color: #4CAF50;
+  color: white;
+}
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
+}
+
+/* GRID */
+div#showgrid {
+    width: 698px;
+    margin: auto;
+}
+div.column {
+    border-style: solid;
+    border-width: 2px;
+    width: 230px;
+    height: 230px;
+    display: inline;
+    float: left;
+    margin: auto;
+}
+.row {
+    width: 100%;
+    margin: auto;
+}
+.btn{
+  text-align: center;
+  font: 'fantasy' sans-serif;
+  width: 150px; 
+}
+.button2{
+  padding-bottom: .35rem;
+}
+.head{
+  background: linear-gradient(to right, rgb(102, 75, 180), rgb(254, 1, 1));
+}
